@@ -4,6 +4,7 @@ def mario
 end
 
 def toadstool
+<<<<<<< HEAD
   phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts phrase
 end
@@ -17,4 +18,8 @@ def all_phrases
   puts mario
   puts toadstool
   puts link
+=======
+  phrase = ""
+  puts phrase
+>>>>>>> 70d8eaa247694e79318cd4ae7a53d771adf30867
 end
